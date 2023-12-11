@@ -93,8 +93,8 @@ const MusicController: FC<{
       >
         <input
           type="range"
-          min="0"
-          max={duration.totalTime}
+          min={0}
+          max={audioRef.current?.duration}
           step={1}
           value={Math.floor(
             (duration.currentTime / duration.totalTime) * 100
