@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "Cupid",
+    "artist": "Fifty Fifty",
+    "album": "Cupid",
+    "songUrl": "songs/Cupid.mp3",
+    "imageUrl": "images/Cupid.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Drowning",
+    "artist": "A Boogie Wit Da Hoodie",
+    "album": "The Bigger Artist",
+    "songUrl": "songs/Drowning.mp3",
+    "imageUrl": "images/Drowning.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Family Ties",
+    "artist": "Baby Keem",
+    "album": "The Melodic Blue",
+    "songUrl": "songs/FamilyTies.mp3",
+    "imageUrl": "images/TheMelodicBlue.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Knife Talk",
+    "artist": "Drake",
+    "album": "Certified Lover Boy",
+    "songUrl": "songs/KnifeTalk.mp3",
+    "imageUrl": "images/KnifeTalk.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Love Dive",
+    "artist": "IVE",
+    "album": "Love Dive",
+    "songUrl": "songs/LoveDive.mp3",
+    "imageUrl": "images/LoveDive.jpg"
+  },
+  {
+    "id": 6,
+    "title": "m.A.A.d city",
+    "artist": "Kendrick Lamar",
+    "album": "good kid, m.A.A.d city",
+    "songUrl": "songs/m.A.A.dCity.mp3",
+    "imageUrl": "images/GKMC.jpg"
+  },
+  {
+    "id": 7,
+    "title": "မယုံနိုင်ဘူး",
+    "artist": "အငဲ",
+    "album": "ကိုး",
+    "songUrl": "songs/MaYoneNaingBuu.mp3",
+    "imageUrl": "images/MaYoneNaingBuu.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Money",
+    "artist": "Cardi B",
+    "album": "Money",
+    "songUrl": "songs/Money.mp3",
+    "imageUrl": "images/Money.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Nikes",
+    "artist": "Frank Ocean",
+    "album": "Blonde",
+    "songUrl": "songs/Nikes.mp3",
+    "imageUrl": "images/Blond.jpg"
+  },
+  {
+    "id": 10,
+    "title": "No Idea",
+    "artist": "Don Toliver",
+    "album": "Heaven Or Hell",
+    "songUrl": "songs/NoIdea.mp3",
+    "imageUrl": "images/NoIdea.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Private Landing",
+    "artist": "Don Toliver",
+    "album": "Love Sick",
+    "songUrl": "songs/PrivateLanding.mp3",
+    "imageUrl": "images/PrivateLanding.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Rain",
+    "artist": "Aitch",
+    "album": "Polaris",
+    "songUrl": "songs/Rain.mp3",
+    "imageUrl": "images/Rain.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Shut Up My Mom's Calling",
+    "artist": "Hotel Ugly",
+    "album": "Shut Up My Mom's Calling",
+    "songUrl": "songs/ShutUpMyMomsCalling.mp3",
+    "imageUrl": "images/ShutUpMyMomsCalling.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Spin About U",
+    "artist": "Drake",
+    "album": "Her Loss",
+    "songUrl": "songs/SpinAboutU.mp3",
+    "imageUrl": "images/SpinAboutU.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Sticky",
+    "artist": "Drake",
+    "album": "Honestly, Nevermind",
+    "songUrl": "songs/Sticky.mp3",
+    "imageUrl": "images/Sticky.jpg"
+  },
+  {
+    "id": 16,
+    "title": "무제(無題) (Untitled, 2014)",
+    "artist": "G-Dragon",
+    "album": "권지용",
+    "songUrl": "songs/Untitled2014.mp3",
+    "imageUrl": "images/Untitled2014.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Vent",
+    "artist": "Baby Keem",
+    "album": "The Melodic Blue",
+    "songUrl": "songs/vent.mp3",
+    "imageUrl": "images/TheMelodicBlue.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Wait For U",
+    "artist": "Future",
+    "album": "I Never Liked You",
+    "songUrl": "songs/WaitForU.mp3",
+    "imageUrl": "images/WaitForU.jpg"
+  },
+  {
+    "id": 19,
+    "title": "ဝေးသွားလည်း",
+    "artist": "Big Bag",
+    "album": "IDGAF",
+    "songUrl": "songs/WayTwarLal.mp3",
+    "imageUrl": "images/WayTwarLal.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Runnin",
+    "artist": "21 Savage",
+    "album": "Savage Mode II",
+    "songUrl": "songs/Runnin.mp3",
+    "imageUrl": "images/SavageMode2.jpg"
+  }
+]
